@@ -1,3 +1,3 @@
-# Decision Tree Practice
-# Support Vector Machine
+Decision Tree 
+Support Vector Machine
 
